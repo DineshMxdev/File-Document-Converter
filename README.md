@@ -24,7 +24,7 @@ This module allows the user to convert their file and download it in the selecte
 
 3)ZipHandling
 
-**Installation [optional]**
+**Installation**
 
 Import the module by using the default Import Module Package
 
