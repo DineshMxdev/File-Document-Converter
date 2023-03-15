@@ -20,9 +20,9 @@ This module allows the user to convert their file and download it in the selecte
 
 1)Mendix Modeler 9.6.0 or greater.
 
-2)CommunityCommons
+2)Download the CommunityCommons module from market place.
 
-3)ZipHandling
+3)Download the ZipHandling module from market place.
 
 **Installation**
 
